@@ -10,3 +10,5 @@ ________                           _____        .__  __  .__                    
 ==============================================================================================
 
 A 'Fairly Simple' calculator written in Python 3.
+
+EDIT: There is gonna be a new calculator coming in soon! This will be archived when released!
